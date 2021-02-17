@@ -1,9 +1,7 @@
 Resume
-
-=================
+======
 
 Sebastian Rojas
-
 ---
 
 Contact
