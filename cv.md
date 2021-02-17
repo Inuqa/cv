@@ -1,7 +1,7 @@
 Resume
 ======
 
-Sebastian Rojas
+Sebastian Rojas Contreras
 ---
 
 Contact
