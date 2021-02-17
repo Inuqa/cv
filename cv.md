@@ -20,7 +20,7 @@ Technical Skills
                 Python, Ruby, JavaScript
 
         Package and version management
-                pyenv, pipenv, rbenv, rvm, bundle, npm, yarn
+                pyenv, pipenv, rbenv, rvm, bundle,nodenv, npm, yarn
 
         Web Development Frameworks
                 Ruby on Rails, Django
