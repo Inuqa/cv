@@ -26,9 +26,12 @@ Technical Skills
                 Ruby on Rails, Django
 
         Web Technologies
-                React, React native, Redux, Webpack, Transpilers, ES6, JSX,
+                React, Redux, Webpack, Transpilers, ES6, JSX,
                 ERB, Haml
 
+        Mobile
+                React Native
+                
         Databases
                 SQL, Postgres, MySQL, SQLite
 
